@@ -6,12 +6,10 @@
   },
   "type": "magento2-module",
   "version": "1.0.0",
-  "license": [
-      "proprietary"
-  ],
+  "license": "proprietary",
   "authors": [
     {
-      "name": "Custom",
+      "name": "Mahadckap",
       "email": "mahalakshmim@dckap.com",
       "homepage": "https://github.com/Mahadckap/magento2_sample"
     }
